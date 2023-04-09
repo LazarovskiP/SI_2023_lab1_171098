@@ -1,0 +1,23 @@
+$ git log
+commit 827388774bc80245ad57f43dc63ad54e214d489b (HEAD -> master, origin/master, bug3)
+Author: Pavel Lazarovski <lazarovskipavel@yahoo.com>
+Date:   Sun Apr 9 17:45:49 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit acc881779c8ab5faddbde6682acd905cd7d25f90
+Merge: 4dc5eb4 fb97474
+Author: Pavel Lazarovski <lazarovskipavel@yahoo.com>
+Date:   Sun Apr 9 17:46:47 2023 +0200
+
+    Merge branch 'bug2'
+
+commit fb9747467d00db25e45a2f0ac6e9642fe9415496 (origin/bug2, bug2)
+Author: Pavel Lazarovski <lazarovskipavel@yahoo.com>
+Date:   Sun Apr 9 17:44:27 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 4dc5eb4c6c0b61ccfaf340d38e2d59081709d122 (origin/bug1, bug1)
+Author: Pavel Lazarovski <lazarovskipavel@yahoo.com>
+Date:   Sun Apr 9 17:42:36 2023 +0200
